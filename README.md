@@ -10,3 +10,4 @@
 </code>
 </pre>
 <p>so you can find out who was the receiver(by putting the receiver email instead of foo@bar.com in img tag. </p>
+<p>Don't forget to install flask-mail</p>
