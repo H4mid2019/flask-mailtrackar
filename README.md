@@ -5,6 +5,8 @@
 <h2>Usage</h2>
 <p>for using just put the link of your server as src in img tag of your email like this:</p>
 <pre>
-<img src="http://yourserver.com/?email=foo@bar.com"/>
+<code>
+< img src="http://yourserver.com/?email=foo@bar.com"/>
+</code>
 </pre>
 <p>so you can find out who was the receiver(by putting the receiver email instead of foo@bar.com in img tag. </p>
