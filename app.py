@@ -51,7 +51,7 @@ def index():
     global body
     body = "--Email = {}\nInfo \n {}".format(email, mmeta)
     threading.Thread(name="retriever", target=sender).start()
-    return send_file('akso.png', mimetype='image/png')
+    return send_file('img.png', mimetype='image/png')
 
 
 def sender():
